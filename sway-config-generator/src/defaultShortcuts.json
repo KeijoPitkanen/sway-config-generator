@@ -1,0 +1,53 @@
+{
+  "mod": "Mod4",
+
+  "workspaceShortCuts": [
+    "Mod4+1",
+    "Mod4+2",
+    "Mod4+3",
+    "Mod4+4",
+    "Mod4+5",
+    "Mod4+6",
+    "Mod4+7",
+    "Mod4+8"
+  ],
+
+  "killFocuesedWindow": ["Mod4+Shift+q"],
+  "fullscreen": ["Mod4+f"],
+
+  "focusLeft": ["Mod4+j", "Mod4+Left"],
+  "focusRight": ["Mod4+semicolon", "Mod4+Right"],
+  "focusUp": ["Mod4+l", "Mod4+Up"],
+  "focusDown": ["Mod4+k", "Mod4+Down"],
+
+  "moveLeft": ["Mod4+Shift+j", "Mod4+Shift+Left"],
+  "moveRight": ["Mod4+Shift+semicolon", "Mod4+Shift+Right"],
+  "moveUp": ["Mod4+Shift+l", "Mod4+Shift+Up"],
+  "moveDown": ["Mod4+Shift+k", "Mod4+Shift+Down"],
+
+  "containerLayoutStacking": ["Mod4+s"],
+  "containerLayoutTabbed": ["Mod4+w"],
+  "containerLayoutSplit": ["Mod4+e"],
+
+  "toggleTiling": ["Mod4+Shift+space"],
+
+  "moveWindowToWorkspace": [
+    "Mod4+Shift+1",
+    "Mod4+Shift+2",
+    "Mod4+Shift+3",
+    "Mod4+Shift+4",
+    "Mod4+Shift+5",
+    "Mod4+Shift+6",
+    "Mod4+Shift+7",
+    "Mod4+Shift+8"
+  ],
+
+  "lockScreen": ["Mod4+Escape"],
+  "reloadConfigurationFile": ["Mod4+Shift+r"],
+  "exitSway": ["Mod4+Shift+e"],
+
+  "keyboardLayout": "",
+  "numlockEnabled": "enabled",
+
+  "launchCustomPrograms": [{ "shortcut": ["Mod4+Return"], "program": "kitty" }]
+}
